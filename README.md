@@ -8,4 +8,4 @@
 
 **I’m @NtyRain**
 
-a typescript font end developer
+A typescript font end developer
